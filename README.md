@@ -24,3 +24,8 @@ I am a fullstack software engineer from Mongolia
 
 <br>
 <br>
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
